@@ -1,0 +1,9 @@
+@echo off
+echo Starting MediAI Guardian 3.0...
+echo.
+echo Installing dependencies...
+pip install streamlit pandas plotly reportlab numpy
+echo.
+echo Starting Streamlit application...
+streamlit run app.py
+pause

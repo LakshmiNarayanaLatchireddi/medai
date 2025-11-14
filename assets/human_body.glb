@@ -1,0 +1,3 @@
+# This file represents the 3D human body model
+# The actual GLB file should be copied from HumanBody.glb in the root directory
+# For the demo, the application will reference the existing GLB files
